@@ -9,4 +9,4 @@ def display_rainbow(colors)
   puts "V: #{colors[6]}"
 end
 
-puts display_rainbow
+puts display_rainbow(colors)
